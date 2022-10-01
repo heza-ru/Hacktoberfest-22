@@ -9,3 +9,4 @@ Link to the deployed site : https://heza-ru.github.io/CSS-JS-Animations/
 <br>
 
 
+[screen-recorder-sun-oct-02-2022-03-43-22.webm](https://user-images.githubusercontent.com/113707801/193430708-cc6584a0-3714-4d6f-9eae-a1bd4227d9ef.webm)
